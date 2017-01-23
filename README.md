@@ -1,3 +1,4 @@
 # test_gerrit
-# dirrect commit
+# dirrect commit to git
+# dirrect commit to gerrit
 # review commit to gerrit
